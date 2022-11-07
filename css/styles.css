@@ -143,7 +143,7 @@ nav ul li a:hover{
         rgba(0,0,0,0.3),
         rgba(0,0,0,0.3)
     ) 
-    ,url("/assets/img/bakery-main.jpg");
+    ,url("../assets/img/bakery-main.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -283,7 +283,7 @@ footer{
         rgba(0,0,0,0.3),
         rgba(0,0,0,0.3)
     ) 
-    ,url("/assets/img/menu-hero.avif");
+    ,url("../assets/img/menu-hero.avif");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
